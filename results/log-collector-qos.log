@@ -1,0 +1,3349 @@
+Starting Distributed Log Collector...
+
+[LISTENING] CRITICAL on UDP port 5001
+[LISTENING] ERROR on UDP port 5002
+[LISTENING] INFO on UDP port 5004
+[LISTENING] WARNING on UDP port 5003
+[LISTENING] Transmission summaries on UDP port 5005
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 0
+Total bytes received: 0
+Packet throughput: 0.00 packets/sec
+Data throughput: 0.00 bytes/sec
+Expected packets: 0
+Lost packets: 0
+Packet loss: Waiting for transmission summary
+
+Severity-wise received packets:
+CRITICAL: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Latency: No valid measurements yet
+==========================================
+
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 1 | Latency: 32.696154 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 2 | Latency: 36.342807 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 3 | Latency: 40.272378 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 4 | Latency: 42.758144 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 55 | Latency: 42.735914 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 56 | Latency: 45.361418 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 57 | Latency: 47.388193 ms
+[SUMMARY RECEIVED] HOST_01 | CRITICAL | Sent: 100
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 58 | Latency: 49.701398 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 59 | Latency: 52.751086 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 60 | Latency: 55.744432 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 61 | Latency: 58.550475 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 62 | Latency: 61.106041 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 63 | Latency: 63.523755 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 64 | Latency: 65.429073 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 65 | Latency: 67.750457 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 5 | Latency: 71.452843 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 6 | Latency: 73.715979 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 7 | Latency: 75.936869 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 8 | Latency: 78.330247 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 9 | Latency: 81.352173 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 10 | Latency: 84.138851 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 11 | Latency: 87.163353 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 12 | Latency: 89.4988 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 13 | Latency: 92.940459 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 66 | Latency: 94.647236 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 67 | Latency: 97.469643 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 68 | Latency: 100.026411 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 69 | Latency: 102.543604 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 14 | Latency: 108.411379 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 70 | Latency: 108.407772 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 15 | Latency: 112.826031 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 16 | Latency: 115.218098 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 17 | Latency: 117.386312 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 18 | Latency: 119.27938 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 71 | Latency: 118.651602 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 19 | Latency: 123.417624 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 20 | Latency: 126.266662 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 21 | Latency: 129.231667 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 22 | Latency: 131.24684 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 23 | Latency: 133.323297 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 24 | Latency: 135.418066 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 72 | Latency: 134.953757 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 25 | Latency: 139.782436 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 26 | Latency: 141.725859 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 73 | Latency: 140.901043 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 27 | Latency: 145.653647 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 74 | Latency: 145.355857 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 75 | Latency: 147.251917 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 76 | Latency: 148.918423 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 77 | Latency: 151.089535 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 28 | Latency: 156.613749 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 29 | Latency: 158.753998 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 78 | Latency: 158.193772 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 79 | Latency: 160.171791 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 30 | Latency: 165.34135 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 80 | Latency: 163.992642 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 31 | Latency: 169.084099 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 32 | Latency: 170.799104 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 81 | Latency: 170.82974 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 33 | Latency: 176.055191 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 34 | Latency: 178.143905 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 82 | Latency: 176.63856 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 35 | Latency: 181.793526 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 36 | Latency: 183.840626 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 37 | Latency: 185.724278 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 38 | Latency: 187.349239 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 39 | Latency: 189.785259 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 40 | Latency: 191.567412 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 41 | Latency: 193.481219 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 83 | Latency: 192.266805 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 84 | Latency: 193.959056 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 42 | Latency: 198.75259 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 43 | Latency: 200.750748 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 44 | Latency: 203.055268 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 45 | Latency: 205.190048 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 46 | Latency: 207.270441 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 47 | Latency: 209.176376 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 48 | Latency: 210.9292 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 49 | Latency: 213.119244 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 85 | Latency: 211.819719 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 86 | Latency: 213.464552 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 87 | Latency: 215.530533 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 50 | Latency: 220.198169 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 51 | Latency: 222.192532 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 52 | Latency: 224.08688 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 53 | Latency: 225.896276 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 54 | Latency: 227.968475 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 88 | Latency: 226.676816 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 89 | Latency: 228.582231 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 90 | Latency: 230.289154 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 91 | Latency: 232.052464 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 92 | Latency: 233.857409 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 93 | Latency: 235.72827 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 94 | Latency: 237.6335 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 95 | Latency: 239.710686 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 96 | Latency: 241.281078 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 97 | Latency: 242.740903 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 98 | Latency: 244.656787 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 99 | Latency: 246.146945 ms
+[RECEIVED] CRITICAL | Host: HOST_01 | Seq: 100 | Latency: 247.469293 ms
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 100
+Total bytes received: 24675
+Packet throughput: 1.67 packets/sec
+Data throughput: 411.19 bytes/sec
+Expected packets: 100
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 0
+WARNING: 0
+INFO: 0
+
+Average latency: 149.667 ms
+Minimum latency: 32.696 ms
+Maximum latency: 247.469 ms
+==========================================
+
+[SUMMARY RECEIVED] HOST_01 | ERROR | Sent: 100
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 1 | Latency: 17.970399 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 2 | Latency: 19.814467 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 3 | Latency: 23.874352 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 4 | Latency: 26.943621 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 5 | Latency: 33.316587 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 6 | Latency: 37.604284 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 7 | Latency: 41.279018 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 8 | Latency: 46.964675 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 9 | Latency: 51.298214 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 10 | Latency: 53.806521 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 11 | Latency: 56.152682 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 12 | Latency: 58.36152 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 71 | Latency: 58.777842 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 72 | Latency: 62.667452 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 13 | Latency: 67.590374 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 14 | Latency: 69.993653 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 15 | Latency: 72.177619 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 16 | Latency: 74.539027 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 17 | Latency: 78.468858 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 18 | Latency: 81.820196 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 19 | Latency: 84.807852 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 20 | Latency: 87.784834 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 21 | Latency: 90.884073 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 22 | Latency: 94.588823 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 23 | Latency: 97.60562 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 24 | Latency: 100.957361 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 25 | Latency: 104.509832 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 26 | Latency: 107.713233 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 27 | Latency: 111.35653 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 28 | Latency: 114.999644 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 29 | Latency: 119.351215 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 30 | Latency: 122.530062 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 31 | Latency: 126.380748 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 32 | Latency: 129.248448 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 33 | Latency: 132.922104 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 34 | Latency: 136.135145 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 35 | Latency: 139.588208 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 36 | Latency: 142.684859 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 37 | Latency: 146.522972 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 38 | Latency: 149.868963 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 39 | Latency: 153.06522 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 40 | Latency: 156.502715 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 41 | Latency: 160.793969 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 42 | Latency: 164.849363 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 43 | Latency: 168.240745 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 44 | Latency: 171.971202 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 45 | Latency: 174.912178 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 46 | Latency: 177.687607 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 47 | Latency: 180.667672 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 48 | Latency: 183.085795 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 49 | Latency: 186.297541 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 50 | Latency: 189.488513 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 51 | Latency: 193.093526 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 52 | Latency: 196.567465 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 53 | Latency: 200.09121 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 54 | Latency: 203.535871 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 55 | Latency: 206.639352 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 56 | Latency: 209.728753 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 57 | Latency: 213.079993 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 58 | Latency: 216.941889 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 59 | Latency: 220.438835 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 60 | Latency: 223.897132 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 61 | Latency: 227.194628 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 62 | Latency: 230.749396 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 63 | Latency: 233.646495 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 64 | Latency: 237.025451 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 65 | Latency: 240.408562 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 66 | Latency: 243.370918 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 67 | Latency: 247.05171 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 68 | Latency: 249.926186 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 69 | Latency: 252.910609 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 70 | Latency: 255.37117 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 73 | Latency: 258.367822 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 74 | Latency: 259.579147 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 75 | Latency: 261.904986 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 76 | Latency: 263.495787 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 77 | Latency: 265.348246 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 78 | Latency: 268.256857 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 79 | Latency: 270.836634 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 80 | Latency: 272.869159 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 81 | Latency: 274.777474 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 82 | Latency: 276.353876 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 83 | Latency: 277.890573 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 84 | Latency: 282.477718 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 85 | Latency: 285.634561 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 86 | Latency: 288.970879 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 87 | Latency: 291.945014 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 88 | Latency: 294.498341 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 89 | Latency: 297.155349 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 90 | Latency: 300.632169 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 91 | Latency: 302.340217 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 92 | Latency: 304.899723 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 93 | Latency: 306.942447 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 94 | Latency: 310.250892 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 95 | Latency: 313.503308 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 96 | Latency: 316.739363 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 97 | Latency: 318.606886 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 98 | Latency: 320.921648 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 99 | Latency: 323.461833 ms
+[RECEIVED] ERROR | Host: HOST_01 | Seq: 100 | Latency: 325.429505 ms
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 200
+Total bytes received: 48404
+Packet throughput: 3.08 packets/sec
+Data throughput: 744.57 bytes/sec
+Expected packets: 200
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 0
+INFO: 0
+
+Average latency: 165.219 ms
+Minimum latency: 17.970 ms
+Maximum latency: 325.430 ms
+==========================================
+
+[SUMMARY RECEIVED] HOST_01 | WARNING | Sent: 100
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 1 | Latency: 12.417479 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 2 | Latency: 13.67112 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 3 | Latency: 16.680337 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 14 | Latency: 18.656224 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 15 | Latency: 21.201152 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 16 | Latency: 23.35523 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 17 | Latency: 26.751245 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 18 | Latency: 29.596158 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 19 | Latency: 32.322074 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 20 | Latency: 36.076662 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 21 | Latency: 38.513402 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 4 | Latency: 42.044174 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 22 | Latency: 45.142051 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 23 | Latency: 48.269021 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 24 | Latency: 50.49566 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 25 | Latency: 52.399926 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 26 | Latency: 55.171723 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 27 | Latency: 57.479172 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 28 | Latency: 60.652584 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 29 | Latency: 63.230535 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 30 | Latency: 65.46494 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 31 | Latency: 67.436379 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 32 | Latency: 70.500172 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 33 | Latency: 73.586603 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 34 | Latency: 76.97187 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 35 | Latency: 79.966761 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 36 | Latency: 82.026698 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 37 | Latency: 84.492454 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 38 | Latency: 86.967641 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 39 | Latency: 89.434152 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 40 | Latency: 91.931757 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 41 | Latency: 94.460611 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 42 | Latency: 97.76234 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 43 | Latency: 100.780851 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 44 | Latency: 102.730963 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 45 | Latency: 104.886969 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 46 | Latency: 107.590366 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 47 | Latency: 110.104903 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 48 | Latency: 112.43728 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 5 | Latency: 115.586281 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 49 | Latency: 117.302656 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 6 | Latency: 120.206104 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 50 | Latency: 121.468771 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 7 | Latency: 124.097259 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 8 | Latency: 126.751315 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 9 | Latency: 129.594378 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 51 | Latency: 131.572622 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 10 | Latency: 134.397601 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 11 | Latency: 136.396581 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 12 | Latency: 138.642027 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 52 | Latency: 139.836884 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 53 | Latency: 142.761752 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 54 | Latency: 145.378579 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 55 | Latency: 147.778981 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 56 | Latency: 149.879251 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 57 | Latency: 152.177758 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 58 | Latency: 153.773768 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 59 | Latency: 156.329132 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 60 | Latency: 158.89395 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 61 | Latency: 161.21026 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 62 | Latency: 163.533208 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 13 | Latency: 167.017279 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 63 | Latency: 168.304705 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 64 | Latency: 170.432108 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 65 | Latency: 173.149772 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 66 | Latency: 175.989664 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 67 | Latency: 178.746351 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 68 | Latency: 181.894545 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 69 | Latency: 184.778832 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 70 | Latency: 187.80174 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 71 | Latency: 190.04254 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 72 | Latency: 192.94096 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 73 | Latency: 195.602612 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 74 | Latency: 198.547709 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 75 | Latency: 200.705269 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 76 | Latency: 203.582594 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 77 | Latency: 207.624683 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 78 | Latency: 210.911031 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 79 | Latency: 213.632244 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 80 | Latency: 216.63792 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 81 | Latency: 220.72402 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 82 | Latency: 223.311078 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 83 | Latency: 226.298139 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 84 | Latency: 228.65724 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 85 | Latency: 230.606139 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 86 | Latency: 232.532841 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 87 | Latency: 234.689769 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 88 | Latency: 237.049845 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 89 | Latency: 239.084897 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 90 | Latency: 241.333667 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 91 | Latency: 243.146156 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 92 | Latency: 246.031138 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 93 | Latency: 249.486527 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 94 | Latency: 251.608245 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 95 | Latency: 254.190924 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 96 | Latency: 257.317545 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 97 | Latency: 260.798636 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 98 | Latency: 263.758731 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 99 | Latency: 266.398255 ms
+[RECEIVED] WARNING | Host: HOST_01 | Seq: 100 | Latency: 269.078905 ms
+[SUMMARY RECEIVED] HOST_01 | INFO | Sent: 100
+[RECEIVED] INFO | Host: HOST_01 | Seq: 25 | Latency: 11.913302 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 26 | Latency: 15.279104 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 27 | Latency: 17.74894 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 28 | Latency: 21.44084 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 29 | Latency: 25.466724 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 30 | Latency: 29.350532 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 31 | Latency: 32.160259 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 32 | Latency: 35.391983 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 33 | Latency: 37.614446 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 34 | Latency: 41.577318 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 35 | Latency: 44.411403 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 36 | Latency: 47.251927 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 37 | Latency: 49.557801 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 38 | Latency: 52.786956 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 39 | Latency: 55.543701 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 40 | Latency: 58.038005 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 41 | Latency: 60.971231 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 42 | Latency: 63.907962 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 43 | Latency: 67.193417 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 44 | Latency: 71.028119 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 45 | Latency: 74.806748 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 46 | Latency: 77.658415 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 47 | Latency: 81.062115 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 48 | Latency: 83.495721 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 49 | Latency: 86.333119 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 50 | Latency: 89.670963 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 51 | Latency: 92.912339 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 52 | Latency: 95.444088 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 53 | Latency: 98.193104 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 54 | Latency: 101.043173 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 55 | Latency: 103.9314 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 56 | Latency: 107.553582 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 57 | Latency: 109.741786 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 58 | Latency: 112.086483 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 59 | Latency: 116.88772 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 60 | Latency: 119.872569 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 61 | Latency: 122.758922 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 62 | Latency: 125.901182 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 63 | Latency: 128.492894 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 64 | Latency: 131.805701 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 65 | Latency: 134.731161 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 66 | Latency: 137.283127 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 67 | Latency: 140.448564 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 68 | Latency: 143.227864 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 69 | Latency: 146.186765 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 70 | Latency: 148.44822 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 71 | Latency: 150.812365 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 72 | Latency: 153.133518 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 73 | Latency: 155.51812 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 74 | Latency: 158.296352 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 75 | Latency: 160.397353 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 76 | Latency: 162.740777 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 77 | Latency: 165.045357 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 78 | Latency: 167.065787 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 79 | Latency: 168.451792 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 80 | Latency: 171.538166 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 81 | Latency: 174.179922 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 82 | Latency: 176.685897 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 83 | Latency: 179.281976 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 84 | Latency: 181.300439 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 85 | Latency: 183.170558 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 86 | Latency: 185.397981 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 87 | Latency: 187.397191 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 88 | Latency: 189.446007 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 89 | Latency: 191.490765 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 90 | Latency: 193.556815 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 91 | Latency: 195.37178 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 92 | Latency: 197.010469 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 93 | Latency: 198.964713 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 94 | Latency: 200.673609 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 95 | Latency: 202.726782 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 96 | Latency: 204.698124 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 97 | Latency: 206.479407 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 98 | Latency: 208.651061 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 99 | Latency: 210.90899 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 100 | Latency: 212.954134 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 1 | Latency: 218.557105 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 2 | Latency: 218.233647 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 3 | Latency: 219.981662 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 4 | Latency: 222.181608 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 5 | Latency: 223.914103 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 6 | Latency: 225.452592 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 7 | Latency: 227.192286 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 8 | Latency: 229.355345 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 9 | Latency: 231.554584 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 10 | Latency: 233.654154 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 11 | Latency: 235.913539 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 12 | Latency: 237.7892 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 13 | Latency: 240.199918 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 14 | Latency: 242.504591 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 15 | Latency: 244.40216 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 16 | Latency: 245.859565 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 17 | Latency: 247.777949 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 18 | Latency: 249.603292 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 19 | Latency: 251.64903 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 20 | Latency: 253.782144 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 21 | Latency: 256.448433 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 22 | Latency: 258.635024 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 23 | Latency: 260.673972 ms
+[RECEIVED] INFO | Host: HOST_01 | Seq: 24 | Latency: 262.679104 ms
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 5.71 packets/sec
+Data throughput: 1381.70 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 5.33 packets/sec
+Data throughput: 1289.59 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 5.00 packets/sec
+Data throughput: 1209.00 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 4.71 packets/sec
+Data throughput: 1137.89 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 4.44 packets/sec
+Data throughput: 1074.67 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 4.21 packets/sec
+Data throughput: 1018.11 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 4.00 packets/sec
+Data throughput: 967.21 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 3.81 packets/sec
+Data throughput: 921.15 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 3.64 packets/sec
+Data throughput: 879.28 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 3.48 packets/sec
+Data throughput: 841.05 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 3.33 packets/sec
+Data throughput: 806.00 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 3.20 packets/sec
+Data throughput: 773.76 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 3.08 packets/sec
+Data throughput: 744.00 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.96 packets/sec
+Data throughput: 716.45 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.86 packets/sec
+Data throughput: 690.86 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.76 packets/sec
+Data throughput: 667.04 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.67 packets/sec
+Data throughput: 644.80 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.58 packets/sec
+Data throughput: 623.99 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.50 packets/sec
+Data throughput: 604.49 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.42 packets/sec
+Data throughput: 586.17 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.35 packets/sec
+Data throughput: 568.93 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.29 packets/sec
+Data throughput: 552.68 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.22 packets/sec
+Data throughput: 537.32 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.16 packets/sec
+Data throughput: 522.80 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.10 packets/sec
+Data throughput: 509.04 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.05 packets/sec
+Data throughput: 495.99 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 2.00 packets/sec
+Data throughput: 483.59 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.95 packets/sec
+Data throughput: 471.80 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.90 packets/sec
+Data throughput: 460.56 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.86 packets/sec
+Data throughput: 449.85 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.82 packets/sec
+Data throughput: 439.63 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.78 packets/sec
+Data throughput: 429.86 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.74 packets/sec
+Data throughput: 420.52 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.70 packets/sec
+Data throughput: 411.57 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.67 packets/sec
+Data throughput: 402.99 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.63 packets/sec
+Data throughput: 394.77 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.60 packets/sec
+Data throughput: 386.87 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.57 packets/sec
+Data throughput: 379.29 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.54 packets/sec
+Data throughput: 371.99 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.51 packets/sec
+Data throughput: 364.98 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.48 packets/sec
+Data throughput: 358.22 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.45 packets/sec
+Data throughput: 351.70 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.43 packets/sec
+Data throughput: 345.42 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.40 packets/sec
+Data throughput: 339.36 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.38 packets/sec
+Data throughput: 333.51 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.36 packets/sec
+Data throughput: 327.86 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.33 packets/sec
+Data throughput: 322.39 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.31 packets/sec
+Data throughput: 317.11 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.29 packets/sec
+Data throughput: 311.99 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.27 packets/sec
+Data throughput: 307.04 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.25 packets/sec
+Data throughput: 302.24 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.23 packets/sec
+Data throughput: 297.59 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.21 packets/sec
+Data throughput: 293.09 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.19 packets/sec
+Data throughput: 288.71 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.18 packets/sec
+Data throughput: 284.47 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.16 packets/sec
+Data throughput: 280.34 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.14 packets/sec
+Data throughput: 276.34 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.13 packets/sec
+Data throughput: 272.45 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.11 packets/sec
+Data throughput: 268.66 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.10 packets/sec
+Data throughput: 264.98 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.08 packets/sec
+Data throughput: 261.40 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.07 packets/sec
+Data throughput: 257.92 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.05 packets/sec
+Data throughput: 254.52 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.04 packets/sec
+Data throughput: 251.22 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.03 packets/sec
+Data throughput: 248.00 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.01 packets/sec
+Data throughput: 244.86 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 1.00 packets/sec
+Data throughput: 241.80 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.99 packets/sec
+Data throughput: 238.81 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.98 packets/sec
+Data throughput: 235.90 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.96 packets/sec
+Data throughput: 233.06 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.95 packets/sec
+Data throughput: 230.28 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.94 packets/sec
+Data throughput: 227.57 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.93 packets/sec
+Data throughput: 224.93 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.92 packets/sec
+Data throughput: 222.34 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.91 packets/sec
+Data throughput: 219.81 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.90 packets/sec
+Data throughput: 217.34 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.89 packets/sec
+Data throughput: 214.93 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.88 packets/sec
+Data throughput: 212.57 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.87 packets/sec
+Data throughput: 210.26 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.86 packets/sec
+Data throughput: 208.00 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.85 packets/sec
+Data throughput: 205.78 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.84 packets/sec
+Data throughput: 203.62 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.83 packets/sec
+Data throughput: 201.50 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.82 packets/sec
+Data throughput: 199.42 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.82 packets/sec
+Data throughput: 197.38 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.81 packets/sec
+Data throughput: 195.39 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.80 packets/sec
+Data throughput: 193.44 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.79 packets/sec
+Data throughput: 191.52 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.78 packets/sec
+Data throughput: 189.64 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.78 packets/sec
+Data throughput: 187.80 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.77 packets/sec
+Data throughput: 186.00 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.76 packets/sec
+Data throughput: 184.23 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.75 packets/sec
+Data throughput: 182.49 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.75 packets/sec
+Data throughput: 180.78 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.74 packets/sec
+Data throughput: 179.11 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.73 packets/sec
+Data throughput: 177.47 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.73 packets/sec
+Data throughput: 175.85 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.72 packets/sec
+Data throughput: 174.27 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.71 packets/sec
+Data throughput: 172.71 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.71 packets/sec
+Data throughput: 171.18 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.70 packets/sec
+Data throughput: 169.68 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.70 packets/sec
+Data throughput: 168.21 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.69 packets/sec
+Data throughput: 166.76 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.68 packets/sec
+Data throughput: 165.33 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.68 packets/sec
+Data throughput: 163.93 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.67 packets/sec
+Data throughput: 162.55 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.67 packets/sec
+Data throughput: 161.20 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.66 packets/sec
+Data throughput: 159.87 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.66 packets/sec
+Data throughput: 158.56 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.65 packets/sec
+Data throughput: 157.27 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.65 packets/sec
+Data throughput: 156.00 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.64 packets/sec
+Data throughput: 154.75 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.63 packets/sec
+Data throughput: 153.52 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.63 packets/sec
+Data throughput: 152.31 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.62 packets/sec
+Data throughput: 151.12 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.62 packets/sec
+Data throughput: 149.95 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.62 packets/sec
+Data throughput: 148.80 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.61 packets/sec
+Data throughput: 147.66 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.61 packets/sec
+Data throughput: 146.54 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.60 packets/sec
+Data throughput: 145.44 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.60 packets/sec
+Data throughput: 144.36 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.59 packets/sec
+Data throughput: 143.29 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.59 packets/sec
+Data throughput: 142.23 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.58 packets/sec
+Data throughput: 141.20 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.58 packets/sec
+Data throughput: 140.17 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.58 packets/sec
+Data throughput: 139.16 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.57 packets/sec
+Data throughput: 138.17 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================
+
+
+========== PERFORMANCE METRICS ==========
+Total packets received: 400
+Total bytes received: 96733
+Packet throughput: 0.57 packets/sec
+Data throughput: 137.19 bytes/sec
+Expected packets: 400
+Lost packets: 0
+Packet loss: 0.00%
+
+Severity-wise received packets:
+CRITICAL: 100
+ERROR: 100
+WARNING: 100
+INFO: 100
+
+Average latency: 155.074 ms
+Minimum latency: 11.913 ms
+Maximum latency: 325.430 ms
+==========================================

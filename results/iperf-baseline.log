@@ -1,0 +1,19 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 5000
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.1 port 42978 connected with 10.0.0.2 port 5000 (icwnd/mss/irtt=14/1448/2797)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-5.0000 sec  5.88 MBytes  9.86 Mbits/sec
+[  1] 5.0000-10.0000 sec  5.75 MBytes  9.65 Mbits/sec
+[  1] 10.0000-15.0000 sec  5.62 MBytes  9.44 Mbits/sec
+[  1] 15.0000-20.0000 sec  5.75 MBytes  9.65 Mbits/sec
+[  1] 20.0000-25.0000 sec  5.62 MBytes  9.44 Mbits/sec
+[  1] 25.0000-30.0000 sec  5.75 MBytes  9.65 Mbits/sec
+[  1] 30.0000-35.0000 sec  5.75 MBytes  9.65 Mbits/sec
+[  1] 35.0000-40.0000 sec  5.62 MBytes  9.44 Mbits/sec
+[  1] 40.0000-45.0000 sec  5.75 MBytes  9.65 Mbits/sec
+[  1] 45.0000-50.0000 sec  5.62 MBytes  9.44 Mbits/sec
+[  1] 50.0000-55.0000 sec  5.75 MBytes  9.65 Mbits/sec
+[  1] 55.0000-60.0000 sec  5.62 MBytes  9.44 Mbits/sec
+[  1] 0.0000-60.2403 sec  68.6 MBytes  9.56 Mbits/sec
